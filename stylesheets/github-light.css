@@ -24,12 +24,12 @@ SOFTWARE.
 */
 
 .pl-c /* comment */ {
-  color: #FF0066;
+  color: #969896;
 }
 
 .pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */,
 .pl-s .pl-v /* string variable */ {
-  color: #0086b3;
+  color: #FF0066;
 }
 
 .pl-e  /* entity */,
