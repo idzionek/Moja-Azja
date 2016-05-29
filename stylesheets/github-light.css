@@ -29,7 +29,7 @@ SOFTWARE.
 
 .pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */,
 .pl-s .pl-v /* string variable */ {
-  color: #FF0066;
+  color: #0086b3;
 }
 
 .pl-e  /* entity */,
@@ -69,7 +69,7 @@ SOFTWARE.
 }
 
 .pl-ii /* invalid.illegal */ {
-  background-color: #b52a1d;
+  background-color: #FF0066;
   color: #f8f8f8;
 }
 
