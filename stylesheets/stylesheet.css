@@ -18,7 +18,7 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(192,192,192,0.3);
+  color: rgb(225,225,225);
   background-color: rgba(0, 0, 255, 0.3);
   border-color: rgba(192,192,192,0.3);
   border-style: solid;
